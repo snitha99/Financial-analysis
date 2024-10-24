@@ -1,12 +1,12 @@
-Project Title: Analysis of Financial Performance and Economic Value Added of Central Bank of India
+# Analysis of Financial Performance and Economic Value Added of Central Bank of India
 
-About
+## About
 
 This project aims to provide insights into the financial health and value creation capabilities of the Central Bank of India. By calculating key financial ratios and EVA, the project will assess the bank's profitability, liquidity, solvency, and efficiency. Additionally, it will evaluate the bank's ability to generate economic profit over the cost of capital.
 
 This project utilizes Microsoft Excel for analysis and visualization.
 
-Analysis Approach
+## Analysis Approach
  * Data Collection: Financial data of the Central Bank of India will be downloaded from moneycontrol.com. The specific data points will include income statement and balance sheet items relevant to the chosen analysis period.
 
  * Data Cleaning and Preprocessing: The downloaded data will be cleaned and formatted to ensure consistency and accuracy. This may involve handling missing values, outliers, and inconsistencies.
@@ -24,7 +24,7 @@ Expected Outputs
  * A well-structured Excel sheet containing the downloaded financial data, calculated ratios, and EVA.
  * Bar charts representing the trends in key financial ratios and EVA over the chosen analysis period.
   
-Benefits
+## Benefits
 
 This project will offer valuable insights into the Central Bank of India's financial performance and economic value creation. Stakeholders, including investors, analysts, and policymakers, can utilize these insights for informed decision-making.
 
